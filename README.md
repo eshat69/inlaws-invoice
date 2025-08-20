@@ -187,18 +187,6 @@ CLI flags are mirrored in `--config path/to/config.json`.
 
 ---
 
-## Dev Setup
-
-* Node ≥ 18
-* pnpm or npm
-* TypeScript
-* Vite (web), Express (API), Zod (validation), Vitest (tests)
-
-```bash
-pnpm i
-pnpm run dev        # web + api
-pnpm run test
-```
 
 Project layout:
 
@@ -245,36 +233,4 @@ Built for fun discussions and education. If this helps nudge even one conversati
 
 ---
 
-## .gitignore
 
-Typical Node/TypeScript project ignore:
-
-```
-# dependencies
-/node_modules
-
-# build outputs
-/dist
-/build
-
-# logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# environment
-.env
-.env.local
-
-# editor
-.vscode
-.idea
-*.swp
-
-# coverage
-/coverage
-
-# misc
-.DS_Store
-*.tgz
-```
