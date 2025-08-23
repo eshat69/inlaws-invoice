@@ -2,7 +2,7 @@
 
  
 A tongue‑in‑cheek “wedding economics” toy app that **satirizes** dowry culture by turning it into a transparent, tweakable calculator. Use it to spark conversations, not to normalize dowry.
-
+ 
 > **Ethics disclaimer**
 > Dowry is harmful and illegal in many places. This project is satire + tech demo. The default configuration strongly nudges toward **Zero Dowry** (see *Positive Mode*). Don’t use this to justify payments.
 
